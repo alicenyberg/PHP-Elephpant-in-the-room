@@ -16,11 +16,7 @@ Link to site: http://hannarosenberg.se/
 
 Code review written by [Alice Nyberg](https://github.com/alicenyberg).
 
-1. `index.php:4` - You may want to have the opening body-tag in your header.php, easier if you later want to add an about-page for example.
-2. `index.php:5` - You could have had your header and nav-tag in your header.php.
-3. `index.php:5` - The nav-bar in your header is not linked to any other pages.
-4. `index.php:15` - Consider having only one <h1> instead of two.
-5. `TIP` - Your font of choice is a bit hard to read sometimes, for example the directions under the ingredients.
+
 
 # Testers
 
