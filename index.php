@@ -35,10 +35,10 @@
             $numItems = count($tacos);
             $i = 0;
 
-            // Function that sorts the recepiets by date. 
+            // Function that sorts the recepiets by date.
             usort($tacos, "sortByDate");
 
-            // Loop with the main-content. 
+            // Loop with the main-content.
             foreach ($tacos as $taco) :
                 $img = $taco['image'];
                 $name = $taco['title'];
